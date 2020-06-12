@@ -1,0 +1,128 @@
+#div{
+#  border: 1px solid #000;
+#  margin: 6px 3px;
+#  padding: 3px;
+#  background-color: #fbba37;
+#}
+
+.sanjuantec{
+  border: 5px solid red;  
+}
+
+#anchofijo{
+  width:50px;
+}
+
+span{
+  border: 1px solid #000;
+  margin: 6px 3px;
+}
+
+button{
+  font-style:oblique;
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.margen-20px{
+  margin-left:20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.margen-5px{
+  margin-left:5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.fondo-rojo{
+  background-color: red;
+}
+
+.fondo-amarillo{
+  background-color: yellow;
+}
+
+.fondo-azul{
+  background-color: blue;
+}
+
+.imagen{
+  background-image: url("/imagen.jpg");
+}
+
+.padding{
+  padding:40px;
+}
+
+.centrar{
+  text-align: center;
+}
+
+.border-2px-verde{
+  border: 2px green dotted;
+}
+
+.ancho-100{
+  width: 100%;
+}
+
+.ancho-50{
+  width: 50%;
+}
+
+.ancho-fijo-70px{
+  width: 70px;
+}
+
+.alto-50px{
+  height:50px;
+}
+
+.alto-60px{
+  height:60px;
+}
+
+.alto-70px{
+  height:70px;
+}
+
+.alineacion-vertical{
+  vertical-align: middle;
+}
+
+.posicion-fija{
+  left:30px;
+  top:40px;
+  position:fixed;
+}
+
+.posicion-absoluta{
+  position:absolute;
+  left: 10px;
+  top: 100px;
+}
+
+.posicion-relativa{
+  position:relative;
+  top: 5px;
+}
+
+.posicion-estatica{
+  position:static;
+}
+
+.fondo-naranja{
+  background-color:orange;
+}
+
+.alto-300px{
+  height: 300px;
+}
+
+.alto-100px{
+  height: 100px;
+}
